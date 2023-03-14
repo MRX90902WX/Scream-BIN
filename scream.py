@@ -60,7 +60,7 @@ elif opcion == "7":
         system("python null.py")
 elif opcion == "8":
         system("sleep 1")
-        system("bash Card.sh")
+        system("bash card.sh")
 elif opcion == "9":
         exit()
 else:

@@ -14,7 +14,7 @@ echo -e "\e[1;33m█\e[0m \e[1;31m╰╮╭╮╭┫╰━━┫╰━╯┃╰�
 echo -e "\e[1;33m█\e[0m  \e[1;31m╰╯╰╯╰━━━┻━━━┻━━━┻━━━┻╯╰╯╰┻━━━╯\e[0m \e[1;33m█\e[0m"
 echo -e "\e[1;33m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█\e[0m"
 echo ""
-echo -e -n "\e[1;31m[\e[0m\e[1;36m♤\e[0m\e[1;31m]\e[0m\e[1;32mIngresa tu nick binnero:\e[0m \e[1;37m\e[0m"
+echo -e -n "\e[1;31m[\e[0m\e[1;36m♤\e[0m\e[1;31m]\e[0m\e[1;32mINGRESA TU NICK BINNERO:\e[0m \e[1;37m\e[0m"
 read nick
 echo ""
 echo -e "\e[1;33mHola ,\e[0m \e[1;37m$nick\e[0m \e[1;36mencantado de conocerte :)\e[0m"

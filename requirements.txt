@@ -1,5 +1,6 @@
 requests
 datetime
+urllib
 colorama
 urllib3
 BeautifulSoup4

@@ -11,6 +11,8 @@ Esta es la nueva actualización de BIN y CCS, con esta herramienta puedes genera
 
 - pkg install php
 
+- pkg install toilet
+
 - pkg install python
 
 - pip install -r requirements.txt
@@ -26,6 +28,7 @@ PARA LA PROXIMA SOLO EJECUTEN
 POR QUE YA SE CREO EL ARCHIVO CC.TXT AL COMIENSO O TAMBIEN
 PUEDEN EJECUTAR SI GUSTAN ./scream-bin.sh PORQUE LE DA LA BIENVENIDA CON SU NICK =)
 
+*****
 CONTRASEÑA DE LA HERRAMIENTA MUNDOBINSRH ES
 
 - XNeEugavFGzzzTtS3zzd25jcxA==

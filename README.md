@@ -36,3 +36,9 @@ CONTRASEÑA DE LA HERRAMIENTA MUNDOBINSRH ES
 - Creador: Demo
 
 Sígueme >_
+
+- Creditos:
+
+- G.I.T.S 
+- @REALHACKRH593
+

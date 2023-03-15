@@ -31,7 +31,8 @@ print("\033[1;31m[\033[1;32m6\033[1;31m] \033[1;37mHerramienta AIO-CC")
 print("\033[1;31m[\033[1;32m7\033[1;31m] \033[1;37mCCGEN Jorge Barba")
 print("\033[1;31m[\033[1;32m8\033[1;31m] \033[1;37mExtrapolar CC [WEB]")
 print("\033[1;31m[\033[1;32m9\033[1;31m] \033[1;37m(593) MundoBinsRH")
-print("\033[1;31m[\033[1;32m10\033[1;31m] \033[1;37mSalir")
+print("\033[1;31m[\033[1;32m10\033[1;31m] \033[1;37mBin YouTube Premiun")
+print("\033[1;31m[\033[1;32m00\033[1;31m] \033[1;37mSalir")
 
 opcion = input("\033[1;36m[~]OPCION : \033[1;37m")
 
@@ -66,6 +67,8 @@ elif opcion == "9":
         system("sleep 1")
         system("bash mundo.sh")
 elif opcion == "10":
+        system("python yt.py")
+elif opcion == "00":
         exit()
 else:
      print("\033[1;31m[x]Opcion invalida")

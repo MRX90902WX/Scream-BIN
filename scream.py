@@ -29,7 +29,7 @@ print("\033[1;31m[\033[1;32m4\033[1;31m] \033[1;37mGenerar BIN con fecha")
 print("\033[1;31m[\033[1;32m5\033[1;31m] \033[1;37mInformacion BIN/CC")
 print("\033[1;31m[\033[1;32m6\033[1;31m] \033[1;37mHerramienta AIO-CC")
 print("\033[1;31m[\033[1;32m7\033[1;31m] \033[1;37mCCGEN Jorge Barba")
-print("\033[1;31m[\033[1;32m8\033[1;31m] \033[1;37mExtrapolar cc [web]")
+print("\033[1;31m[\033[1;32m8\033[1;31m] \033[1;37mExtrapolar CC [WEB]")
 print("\033[1;31m[\033[1;32m9\033[1;31m] \033[1;37m(593) MundoBinsRH")
 print("\033[1;31m[\033[1;32m10\033[1;31m] \033[1;37mSalir")
 

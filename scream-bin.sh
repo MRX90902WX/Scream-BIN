@@ -2,6 +2,7 @@
 
 setterm -foreground blue
 git clone https://github.com/MRX90902WX/Card-extrapolaccion
+git clone https://github.com/MRX90902WX/MundoBinsRH
 clear
 chmod 777 scream-bin.sh
 echo -e "\e[1;33m█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█\e[0m"

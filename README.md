@@ -40,5 +40,5 @@ Sígueme >_
 
 - G.I.T.S 
 - @REALHACKRH593
-- Jorge Barba
+- hackingboy2020
 

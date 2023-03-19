@@ -20,5 +20,6 @@ else:
     exit()
 
 def main():
+    print("")
     print(f"\033[1;36m----> \033[1;37m{dategen()}")
 main()

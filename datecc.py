@@ -3,7 +3,7 @@ import datetime
 
 #Code: D€m0
 #CODIGO DE USO LIBRE#
-dates = input("\033[1;37m[\033[1;31m#\033[1;37m]\033[1;33mGenerar fecha de cad. \033[1;37msi/no: ")
+dates = input("\033[1;37m[\033[1;31m#\033[1;37m]\033[1;33mGenerar fecha de cad. \033[1;37m[si/no]: ")
 
 if dates == "si":
  def dategen():

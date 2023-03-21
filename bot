@@ -1,0 +1,29 @@
+#! /bin/bash
+echo ""                                                     
+echo -e "\e[1;31m☆☆\e[0m\e[1;37m☆☆\e[0m\e[1;31m☆☆\e[0m\e[1;32mArcadia-Bot-Telegram\e[0m\e[1;31m☆☆\e[0m\e[1;37m☆☆\e[0m\e[1;31m☆☆\e[0m"         
+echo ""                                                                                                                                       
+sleep 2
+echo -e "\e[1;33mCopia el enlace y pegalo en tu navegador\e[0m"
+echo ""
+echo -e "\e[1;33mBot-Telegram:\e[0m\e[1;37mhttps://t.me/ChatScrapperArcadia\e[0m"
+echo ""
+while :
+do
+echo ""
+echo -e "\e[1;32mDesea continuar usando el programa\e[0m \e[1;37msi/no\e[0m"
+echo -e -n "\e[1;37m>>> \e[0m"
+read menu                                                                     
+case $menu in
+si)
+#! /bin/bash                                                                  
+python scream.py
+exit
+;;
+no)
+#! /bin/bash
+echo -e "\e[1;37m[+]\e[0m \e[1;32mSCREAM BIN ,BYE\e[0m"
+sleep 1
+exit
+;;
+esac
+done

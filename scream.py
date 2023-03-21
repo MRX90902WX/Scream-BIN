@@ -37,7 +37,7 @@ print("\033[1;31m[\033[1;32m00\033[1;31m] \033[1;37mSalir")
 opcion = input("\033[1;36m[~]OPCION : \033[1;37m")
 
 if opcion == "1":
-        system("cd Pagina-de-Carding")
+        system("bash carder")
 elif opcion == "2":
         system("python two.py")
 elif opcion == "3":

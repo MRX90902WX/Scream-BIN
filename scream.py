@@ -39,7 +39,7 @@ opcion = input("\033[1;36m[~]OPCION : \033[1;37m")
 if opcion == "1":
         system("bash carder")
 elif opcion == "2":
-        system("python two.py")
+        system("python cc.py")
 elif opcion == "3":
         system("python bingnd.py")
 elif opcion == "4":

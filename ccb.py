@@ -45,7 +45,6 @@ get_info()
 print("")
 volver = input(" \033[1;34m[\033[1;37m☆\033[1;34m]\033[1;37mContinuar info de un bin \033[1;34msi/no: ")
 
-
 if volver == "si":                                                                      
          system("python ccb.py")
 else:                        

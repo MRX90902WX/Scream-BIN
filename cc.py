@@ -1,6 +1,7 @@
 import random
 from randomtimestamp import randomtimestamp
 from datetime import datetime
+from os import system
 
 
 class CC():

@@ -43,7 +43,7 @@ def get_info():
 get_info()
 
 print("")
-volver = input(" \033[1;34m[\033[1;37m☆\033[1;34m]\033[1;37mContinuar info de un bin \033[1;34msi/no: ")
+volver = input(" \033[1;34m[\033[1;37m☆\033[1;34m]\033[1;37mContinuar info de un bin \033[1;34msi/no: \033[1;37m")
 
 if volver == "si":                                                                      
          system("python ccb.py")

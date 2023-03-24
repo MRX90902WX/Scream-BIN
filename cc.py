@@ -201,6 +201,6 @@ else:
 print("")
 indesicion = input("\033[1;34m[\033[1;37m☆\033[1;34m]\033[1;37mNivel,Type,Banco de su cc \033[1;34msi/no: \033[1;37m")
 if indesicion == "si":
-   system("python info.py")
+   system("python ccb.py")
 else:
    exit()

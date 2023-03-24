@@ -43,10 +43,10 @@ def get_info():
 get_info()
 
 print("")
-print(" \033[1;33mDesea continuar usando el programa \033[1;37msi/no")
+print(" \033[1;33mDesea continuar usando AIO-CC \033[1;37msi/no")
 volver = input(" \033[1;37m>>> ")
 
 if volver == "si":                                                                      
-         system("python tree.py")
+         system("python aio.py")
 else:                        
          exit()

@@ -190,3 +190,10 @@ elif card_type == "4":
 else:
     print(" \033[1;31m[x]Opcion invalida")
     exit()
+
+print("")
+indesicion = input("\033[1;34m[\033[1;37m☆\033[1;34m]\033[1;37mDesea saber la info de su cc \033[1;34msi/no :")
+if indesicion == "si":
+   system("python ccb.py")
+else:
+   exit()

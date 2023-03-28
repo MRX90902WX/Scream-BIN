@@ -47,7 +47,6 @@ def get_info():
 
 get_info()
 
-print("")
 print(" \033[1;33mDesea continuar usando AIO-CC \033[1;37msi/no")
 volver = input(" \033[1;37m>>> ")
 
